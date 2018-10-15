@@ -5,6 +5,3 @@ compile_pdf:
   artifacts:
     paths:
       - file.pdf
-  environment:
-    name: ParamicsDiscovery.exe
-    url: https://gitlab.com/joostlek/$CI_PROJECT_PATH/jobs/$CI_BUILD_ID/artifacts/file/file.pdf
